@@ -153,10 +153,7 @@ Response:
 
 ## 🖼 Screenshots
 
-📌 Save images inside: `docs/screenshots/`
-📌 Reference them here in the README using Markdown:
-
-```markdown
+``
 ![Swagger UI](/UrlShortener.Api/ScreenShots/Swagger UI main screen.png)
 ![Create Response](/UrlShortener.Api/ScreenShots/POST%20-api-ShortUrls%20response.png)
 ![Redirect Page](/UrlShortener.Api/ScreenShots/-go-{code}%20redirect%20page.png)
