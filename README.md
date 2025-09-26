@@ -1,5 +1,5 @@
 
-```markdown
+``
 # URL Shortener with Click Analytics (ASP.NET Core 8 + EF Core + SQLite)
 
 A production-grade yet lightweight **URL Shortener API** built with **ASP.NET Core 8** and **Entity Framework Core**.  
