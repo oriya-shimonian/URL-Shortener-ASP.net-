@@ -12,7 +12,6 @@ public static class ServiceRegistration
         services.AddDbContext<AppDbContext>(opt =>
             opt.UseSqlite(config.GetConnectionString("Default")));
 
-        // כאן בעתיד: Redis, Logging providers, Repositories, MessageBus וכו'
         return services;
     }
 }
