@@ -158,15 +158,7 @@ Response:
 ![Create Response](/UrlShortener.Api/ScreenShots/POST%20-api-ShortUrls%20response.png)
 ![Redirect Page](/UrlShortener.Api/ScreenShots/-go-{code}%20redirect%20page.png)
 ![Stats](/UrlShortener.Api/ScreenShots/Analytics%20response.png)
-```
-
-### Recommended screenshots:
-
-1. **Swagger UI main screen** (with endpoints visible).
-2. **POST /api/ShortUrls response** (showing shortUrl + openUrl + preview).
-3. **/go/{code} redirect page** (optional, shows it works even from Swagger).
-4. **Analytics response** (stats with click count and recent clicks).
-
+``
 ---
 
 ## 🌍 Deployment
